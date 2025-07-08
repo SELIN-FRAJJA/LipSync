@@ -36,8 +36,8 @@ The following `.pth` model files are required for this project. Due to their lar
 | File Name                     | Target Folder                             | Download Link |
 |------------------------------|--------------------------------------------|---------------|
 | `net_g_67500.pth`            | `Real-ESRGAN/experiments/pretrained/`     | [Download][(https://drive.google.com/file/d/1m7QxSDH4tu-u94qD-YcCHT0ZUVpW1NZS/view?usp=sharing](https://drive.google.com/file/d/1Al8lEpnx2K-kDX7zL2DBcAuDnSKXACPb/view)) |
-| `detection_Resnet50_Final.pth` | `Real-ESRGAN/gfpgan/`                    | [Download](https://drive.google.com/file/d/1TZGEzU6cTIlW-nygZTr2Jjz_L9zxJfnR/view?usp=sharing) |
-| `parsing_parsenet.pth`       | `Real-ESRGAN/gfpgan/`                      | [Download](https://drive.google.com/file/d/1vIYXZ3o31nbSz_0dz0ZqW4M1PNrrVJQh/view?usp=sharing) |
+| `detection_Resnet50_Final.pth` | `Real-ESRGAN/gfpgan/`                    | [Download]([https://drive.google.com/file/d/1TZGEzU6cTIlW-nygZTr2Jjz_L9zxJfnR/view?usp=sharing](https://drive.google.com/file/d/1sW2GyjCUQ46qz3ZUWHV1gB9c0gNTmQkM/view?usp=sharing)) |
+| `parsing_parsenet.pth`       | `Real-ESRGAN/gfpgan/`                      | [Download]([https://drive.google.com/file/d/1vIYXZ3o31nbSz_0dz0ZqW4M1PNrrVJQh/view?usp=sharing](https://drive.google.com/file/d/1wZ_DI9puMmKzce7D5UZPxwfLjcoqdktq/view?usp=sharing)) |
 
 ---
 
