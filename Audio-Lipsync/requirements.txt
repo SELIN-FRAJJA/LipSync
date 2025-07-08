@@ -1,0 +1,13 @@
+addict
+future
+librosa==0.7.0
+lmdb
+numba==0.48
+Pillow
+pyyaml
+requests
+scikit-image
+scipy
+tb-nightly
+tqdm
+yapf

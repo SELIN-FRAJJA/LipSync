@@ -1,0 +1,2 @@
+file 'output_videos_wav2lip/face1_synced.mp4' 
+file 'output_videos_wav2lip/face2_synced.mp4' 
