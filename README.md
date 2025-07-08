@@ -27,21 +27,23 @@ This project requires the following `.pth` model files to be downloaded manually
 
 ## 🔧 Required Pretrained Models
 
-The following `.pth` model files are required for this project. Due to their large size, you must **download them manually** and place them in the specified folders.
+The following `.pth` model files are required for this project. Due to their large size, these files must be downloaded manually and placed in the correct directories.
 
-### 📥 Model Files and Placement
+---
 
-| File Name                    | Target Folder                             |
-|-----------------------------|--------------------------------------------|
-| `net_g_67500.pth`           | `Real-ESRGAN/experiments/pretrained/`     |
-| `detection_Resnet50_Final.pth` | `Real-ESRGAN/gfpgan/`                  |
-| `parsing_parsenet.pth`      | `Real-ESRGAN/gfpgan/`                      |
+### 📥 Files to Download
+
+| File Name                     | Target Folder                             | Download Link |
+|------------------------------|--------------------------------------------|---------------|
+| `net_g_67500.pth`            | `Real-ESRGAN/experiments/pretrained/`     | [Download][(https://drive.google.com/file/d/1m7QxSDH4tu-u94qD-YcCHT0ZUVpW1NZS/view?usp=sharing](https://drive.google.com/file/d/1Al8lEpnx2K-kDX7zL2DBcAuDnSKXACPb/view)) |
+| `detection_Resnet50_Final.pth` | `Real-ESRGAN/gfpgan/`                    | [Download](https://drive.google.com/file/d/1TZGEzU6cTIlW-nygZTr2Jjz_L9zxJfnR/view?usp=sharing) |
+| `parsing_parsenet.pth`       | `Real-ESRGAN/gfpgan/`                      | [Download](https://drive.google.com/file/d/1vIYXZ3o31nbSz_0dz0ZqW4M1PNrrVJQh/view?usp=sharing) |
+
+---
 
 ### 🧭 Folder Structure Example
 
 
-
-> 📌 After downloading, manually create any missing folders and place each file in the correct directory.
 
 
 
