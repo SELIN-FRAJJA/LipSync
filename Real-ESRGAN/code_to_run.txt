@@ -1,0 +1,9 @@
+// 1. Extract frames from the video
+mkdir frames
+ffmpeg -i input_video.mp4 frames/frame_%05d.png
+
+// 2. Run Real-ESRGAN on extracted frames
+python inference_realesrgan.py -n RealESRGAN_x4plus -i frames --outscale 4 --suffix out --face_enhance
+
+//3. Reconstruct the video from upscaled frames
+ffmpeg -framerate 30 -i results/frame_%05d_out.png -i input_video.mp4 -c:v libx264 -pix_fmt yuv420p -c:a copy output_upscaled.mp4
