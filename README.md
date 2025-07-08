@@ -15,3 +15,10 @@ This project requires the following `.pth` model files to be downloaded manually
 
 4. `s3fd.pth`  
    ➤ Place in: `Audio-Lipsync/face_detection/detection/sfd/`
+   
+### 🔗 Download Links
+
+| File | Download Link |
+|------|----------------|
+| `wav2lip_gan.pth` `esrgan_yunying.pth` `face_segmentation.pth`  | [Download]([https://drive.google.com/uc?id=1rwVFF5gU1Zz3x-6Tx8EzBziHTb1ONqR2](https://drive.google.com/drive/folders/1tB_uz-TYMePRMZzrDMdShWUZZ0JK3SIZ)) |
+| `s3fd.pth` | [Download]([https://drive.google.com/uc?id=1mV0T3U9aU_zI9dAd0KeJW1k3OZ7-nUjb](https://drive.google.com/file/d/1uNLYCPFFmO-og3WSHyFytJQLLYOwH5uY/view)) |
